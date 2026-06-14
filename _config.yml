@@ -7,7 +7,7 @@ site_theme              : "default" # Estilo limpio y minimalista por defecto
 title                   : "Matemático Anónimo"
 title_separator         : "|"
 name                    : &name "Saúl Márquez"
-description             : &description "Profesor Investigador de Matemáticas - Universidad de Guadalajara"
+description             : &description "Profesor de asignatura - Universidad de Guadalajara"
 url                     : "https://saulmarquez-udg.github.io"
 baseurl                 : "" 
 repository              : "saulmarquez-udg/saulmarquez-udg.github.io"
