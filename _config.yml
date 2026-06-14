@@ -4,7 +4,7 @@
 # Basic Site Settings
 locale                  : "es-MX" # Configurado en español de México
 site_theme              : "default" # Estilo limpio y minimalista por defecto
-title                   : "Dr. Saúl Márquez | Matemáticas"
+title                   : "Matemático Anónimo"
 title_separator         : "|"
 name                    : &name "Saúl Márquez"
 description             : &description "Profesor Investigador de Matemáticas - Universidad de Guadalajara"
@@ -18,17 +18,17 @@ author:
   avatar            : "profile.png" # Si subes una foto tuya a la carpeta raíz con este nombre, aparecerá aquí
   name              : "Saúl Márquez"
   pronouns          : # ej: "él/he"  
-  bio               : "Profesor Investigador en Matemáticas. Interesado en la docencia, divulgación y la investigación científica."
+  bio               : "Profesor de asignatura Universidad de Guadalajara. Interesado en la docencia, divulgación y la investigación científica."
   location          : "Guadalajara, Jalisco, México"
-  employer          : "Universidad de Guadalajara (UDG)"
+  employer          : "Universidad de Guadalajara"
   uri               : # Tu página web alternativa si tuvieras una
   email             : "saul.marquez@academicos.udg.mx" # Cambia por tu correo real 
 
   # Perfiles Académicos (Si dejas alguno vacío con el símbolo #, no se mostrará el icono)
   academia          : # URL de Academia.edu
   arxiv             : # URL de tu perfil de arXiv
-  googlescholar     : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ" # Reemplaza con tu ID real de Scholar
-  orcid             : "https://orcid.org/yourorcidurl" # Reemplaza con tu enlace de ORCID
+  googlescholar     : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ" # Reemplaza con tu ID real de Scholar
+  orcid             : "https://orcid.org/0009-0002-3866-7620" # Reemplaza con tu enlace de ORCID
   researchgate      : # URL de tu perfil de ResearchGate
   scopus            : # URL de tu perfil de Scopus
   semantic          : # URL de Semantic Scholar
@@ -40,6 +40,7 @@ author:
   bluesky           : # Tu usuario de Bluesky
   linkedin          : # Tu usuario de LinkedIn
   twitter           : # Tu usuario de X/Twitter
+  youtube           : https://www.youtube.com/c/matematicoanonimo
 
 # Categorías de tus Publicaciones
 publication_category:
