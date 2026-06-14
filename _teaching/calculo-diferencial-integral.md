@@ -6,7 +6,7 @@ permalink: /teaching/calculo-diferencial-integral
 author_profile: true
 ---
 
-# Cálculo Diferencial e Integral (Clave: 16121)
+% # Cálculo Diferencial e Integral (Clave: 16121)
 
 Bienvenidos al espacio digital de la asignatura. El objetivo fundamental de este curso es relacionar cantidades de pequeña escala (diferenciales) con cantidades de gran escala (integradas) mediante el Teorema Fundamental del Cálculo.
 
@@ -21,25 +21,25 @@ Bienvenidos al espacio digital de la asignatura. El objetivo fundamental de este
 
 | Actividad | Descripción | Ponderación |
 | :--- | :--- | :---: |
-| **Examen Final** | Evaluación teórico-práctica global de todos los temas. | 35% |
-| **Segundo Examen Parcial** | Temas correspondientes a la Unidad 3 (Derivadas). | 20% |
-| **Tareas** | Prácticas guiadas (5%) + Problemas para parciales (15%). | 20% |
 | **Primer Examen Parcial** | Temas correspondientes a las Unidades 1 y 2. | 15% |
-| **Examen Departamental** | Examen de opción múltiple a mediados de mayo. | 10% |
+| **Segundo Examen Parcial** | Temas correspondientes a la Unidad 3. | 20% |
+| **Examen Final** | Evaluación teórico-práctica global de todos los temas. | 35% |
+| **Tareas** | Prácticas guiadas (5%) + Problemarios (15%). | 20% |
+| **Examen Departamental** | Examen de opción múltiple al final del semestre. | 10% |
 
 > ⚠️ **Nota sobre asistencia:** De acuerdo al reglamento del CUCEI, se requiere un mínimo del 80% de asistencia para tener derecho a la evaluación ordinaria, y un 65% para el periodo extraordinario. La calificación mínima aprobatoria es 60.
 
 ---
 
-## 📂 Material Didáctico y Descargables
+## 📂 Material didáctico y descargables
 
-### 📝 Prácticas Guiadas (Preparación Departamental)
+### 📝 Prácticas guiadas (Preparación para el examen departamental)
 *Ejercicios virtuales de opción múltiple encaminados a repasar conceptos básicos.*
 * 📥 [Práctica Guiada: Funciones e Inecuaciones](#) *(Enlace pendiente)*
 * 📥 [Práctica Guiada: Límites e Indeterminaciones](#) *(Enlace pendiente)*
 * 📥 [Práctica Guiada: Reglas de Derivación](#) *(Enlace pendiente)*
 
-### 📐 Hojas de Problemas (Preparación para Parciales)
+### 📐 Hojas de problemas (Preparación para parciales)
 *Ejercicios de desarrollo manuscrito para entregar en Classroom los **sábados antes de las 12:00 del mediodía** en hojas blancas individuales.*
 * 📥 [Problemario 1: Límites y Continuidad](#) *(Enlace pendiente)*
 * 📥 [Problemario 2: Aplicaciones de la Derivada y Optimización](#) *(Enlace pendiente)*
@@ -57,7 +57,7 @@ A lo largo del semestre se habilitarán lecturas complementarias con demostracio
 
 ---
 
-## 📚 Bibliografía de Referencia
+## 📚 Referencias
 * Stewart, J. — *Cálculo de una variable: Trascendentes tempranas* (9.ª ed.).
 * Purcell, E. J., Varberg, D., Rigdon, S. E. — *Cálculo* (9.ª ed.).
 * Thomas, G. B., Weir, M. D., Hass, J. — *Thomas. Cálculo: Una variable* (12.ª ed.).
