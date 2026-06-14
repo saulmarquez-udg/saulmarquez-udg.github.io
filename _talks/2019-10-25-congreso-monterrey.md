@@ -9,7 +9,7 @@ date: 2019-10-25
 location: "Monterrey, Nuevo León, México"
 ---
 
-Esta ponencia se presentó en el marco del **LII Congreso Nacional de la Sociedad Matemática Mexicana (SMM)**.
+Esta ponencia se presentó en el marco del LII Congreso Nacional de la Sociedad Matemática Mexicana.
 
 * **Tipo de evento:** Congreso Nacional de Matemáticas.
 * **Resumen (Abstract):** *Pendiente de actualización.*
