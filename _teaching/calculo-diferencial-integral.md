@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "16121 - Cálculo Diferencial e Integral"
+title: "Cálculo Diferencial e Integral"
 collection: teaching
 type: "Curso Semestral"
 permalink: /teaching/calculo-diferencial-integral
