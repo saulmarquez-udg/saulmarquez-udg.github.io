@@ -17,13 +17,13 @@ Como futuros científicos experimentales (QFB), la noción de límite no es ajen
 
 Imagina que estás monitoreando la temperatura $$T$$ en grados Celsius de una reacción química en tu matraz. El comportamiento de la temperatura depende estrictamente del tiempo $$t$$ en minutos transcurrido desde que agregaste un catalizador. Matemáticamente, decimos que la temperatura es una función del tiempo: $$T(t)$$.
 
-Supongamos que los modelos químicos predicen que **exactamente en el minuto $t = 3$** ocurre una transición de fase instantánea y la lectura del sensor digital se interrumpe por un milisegundo. No puedes medir directamente la temperatura exacta en $T(3)$. ¿Significa que perdimos la información del experimento?
+Supongamos que los modelos químicos predicen que **exactamente en el minuto $$t = 3$$** ocurre una transición de fase instantánea y la lectura del sensor digital se interrumpe por un milisegundo. No puedes medir directamente la temperatura exacta en $$T(3)$$. ¿Significa que perdimos la información del experimento?
 
 Por supuesto que no. Lo que haces por instinto analítico es revisar las bitácoras del sensor justo **antes** y justo **después** del minuto 3:
 
-* Si mides a los $t = 2.9$ min, la temperatura marca $58.1^\circ\text{C}$.
-* Si mides a los $t = 2.99$ min, marca $59.8^\circ\text{C}$.
-* Si mides a los $t = 2.999$ min, marca $59.99^\circ\text{C}$.
+* Si mides a los $$t = 2.9$$ min, la temperatura marca $$58.1^\circ\text{C}$$.
+* Si mides a los $$t = 2.99$$ min, marca $$59.8^\circ\text{C}$$.
+* Si mides a los $$t = 2.999$$ min, marca $$59.99^\circ\text{C}$$.
 
 Hagamos lo mismo viniendo desde el enfriamiento (después del minuto 3):
 * Si mides a los $t = 3.1$ min, la temperatura marca $61.9^\circ\text{C}$.
