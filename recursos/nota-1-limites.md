@@ -31,7 +31,7 @@ Hagamos lo mismo viniendo desde el enfriamiento (después del minuto 3):
 * Si mides a los $$t = 3.01$$ min, marca $$60.2^\circ\text{C}$$.
 * Si mides a los $$t = 3.001$$ min, marca $$60.01^\circ\text{C}$$.
 
-Cualquier científico experimental notaría el patrón de inmediato. Aunque tu termómetro haya fallado en el instante exacto $$t = 3$$, tienes la certeza analítica de que la temperatura se estaba aproximando a los $60^\circ\text{C}$. Ese valor objetivo es el límite.
+Cualquier científico experimental notaría el patrón de inmediato. Aunque tu termómetro haya fallado en el instante exacto $$t = 3$$, tienes la certeza analítica de que la temperatura se estaba aproximando a los $$60^\circ\text{C}$$. Ese valor objetivo es el límite.
 
 ---
 
@@ -43,7 +43,7 @@ $$\lim_{t \to 3} T(t) = 60$$
 
 Esto se lee: <<el límite de la función de temperatura $$T(t)$$ cuando el tiempo $$t$$ se aproxima a 3, es igual a 60>>.
 
-Visualmente, si graficáramos esta función con el tiempo en el eje horizontal $$X$$ y la temperatura en el eje vertical $$Y$$, observaríamos que a medida que nuestros valores en el eje $$$X$ se van acorralando irremediablemente hacia el número 3 (ya sea por la izquierda o por la derecha), las alturas de la curva en el eje $$Y$$ se van concentrando en el valor 60.
+Visualmente, si graficáramos esta función con el tiempo en el eje horizontal $$X$$ y la temperatura en el eje vertical $$Y$$, observaríamos que a medida que nuestros valores en el eje $$$X$$ se van acorralando irremediablemente hacia el número 3 (ya sea por la izquierda o por la derecha), las alturas de la curva en el eje $$Y$$ se van concentrando en el valor 60.
 
 La clave fundamental del concepto de límite radica en una regla de oro: no nos importa lo que pasa exactamente en el punto crítico, sino lo que sucede supremamente cerca de él. La matemática evalúa la tendencia del camino. Si al acercarnos a una entrada (el tiempo 3) por ambos lados las salidas apuntan hacia el mismo valor numérico (60), entonces decimos que el límite existe.
 
