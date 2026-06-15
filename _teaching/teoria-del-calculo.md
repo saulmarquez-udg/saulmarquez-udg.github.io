@@ -3,8 +3,15 @@ layout: single
 title: "Teoría del Cálculo I"
 collection: teaching
 permalink: /teaching/teoria-del-calculo-i
+venue: "Universidad de Guadalajara, CUCEI"
+date: 2026-01-01
+location: "Guadalajara, Jalisco, México"
 author_profile: true
 ---
+
+# Teoría del Cálculo I
+
+Este curso ofrece una aproximación rigurosa...
 
 # Teoría del Cálculo I
 
