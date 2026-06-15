@@ -8,6 +8,7 @@ date: 2026
 location: "Guadalajara, Jalisco, México"
 author_profile: true
 ---
+
 Este curso ofrece una aproximación rigurosa y formal a las bases estructurales del análisis matemático en una variable. Cuenta con una dedicación total de 112 horas distribuidas en 16 semanas de actividades académicas.
 
 ## 🕒 Distribución semanal de carga horaria
