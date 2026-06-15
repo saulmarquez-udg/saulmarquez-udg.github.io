@@ -4,40 +4,33 @@ title: "Teoría del Cálculo I"
 collection: teaching
 permalink: /teaching/teoria-del-calculo-i
 venue: "Universidad de Guadalajara, CUCEI"
-date: 2026-01-01
+date: 2026
 location: "Guadalajara, Jalisco, México"
 author_profile: true
 ---
-
-# Teoría del Cálculo I
-
-Este curso ofrece una aproximación rigurosa...
-
-# Teoría del Cálculo I
-
 Este curso ofrece una aproximación rigurosa y formal a las bases estructurales del análisis matemático en una variable. Cuenta con una dedicación total de 112 horas distribuidas en 16 semanas de actividades académicas.
 
-## 🕒 Distribución Semanal de Carga Horaria
-* **Teoría del Cálculo:** 4 horas semanales.
-* **Taller de Teoría:** 2 horas semanales.
-* **Seminario de Cálculo:** 1 hora semanal.
+## 🕒 Distribución semanal de carga horaria
+* **Teoría:** 4 horas semanales.
+* **Taller:** 2 horas semanales.
+* **Seminario:** 1 hora semanal.
 
 ---
 
-## 📊 Estructura de Evaluación (Enfoque Teórico)
+## 📊 Estructura de evaluación
 
 Las evaluaciones constan de 3 horas de duración: 1 hora destinada a la fundamentación teórica (definiciones formales y demostraciones analíticas) y 2 horas para la resolución de problemas de aplicación profunda.
 
-| Evaluación | Cobertura Temática | Ponderación |
+| Evaluación | Contenido | Ponderación |
 | :--- | :--- | :---: |
-| **Examen Final** | Unidades 4, 5 y 6 (Énfasis en Integración y Aplicaciones). | 35% |
-| **Tareas del Curso** | Conjuntos de problemas teóricos entregados cada 2 semanas. | 30% |
-| **Segundo Examen Parcial** | Unidades 4 y 5 (Cálculo Diferencial y Optimización). | 20% |
-| **Primer Examen Parcial** | Unidades 1, 2 y 3 (Estructura de Reales, Límites y Continuidad). | 15% |
+| **Primer examen parcial** | Unidades 1, 2 y 3. | 15% |
+| **Segundo examen parcial** | Unidades 4 y 5. | 20% |
+| **Examen final** | Unidades 4, 5 y 6. | 35% |
+| **Tareas del curso** | Conjuntos de problemas prácticos y teóricos entregados cada 2 semanas. | 30% |
 
 ---
 
-## 📂 Material de Estudio y Hojas de Ejercicios
+## 📂 Material de estudio y hojas de ejercicios
 
 Los problemarios correspondientes a cada unidad se publicarán paulatinamente aquí:
 
@@ -48,12 +41,12 @@ Los problemarios correspondientes a cada unidad se publicarán paulatinamente aq
 
 ---
 
-## 📝 Notas del Seminario y Clases Interactivas (LaTeX)
+## 📝 Notas del seminario
 
-Espacio dedicado al análisis formal de resultados clave del curso. Puedes consultar las demostraciones interactivas aquí:
+Espacio dedicado al análisis formal de resultados clave del curso. Puedes consultar las demostraciones aquí:
 
 * 🌐 [Nota 1: El Teorema del Valor Intermedio y el Corolario de Bolzano](#)
 * 🌐 [Nota 2: Teorema de Taylor y Aproximación Polinomial Explicada](#)
 * 🌐 [Nota 3: Integrales Impropias y Análisis de Convergencia de Series de Funciones](#)
 
-> 💡 *Nota metodológica:* La última unidad sobre **Sucesiones y Series** mantendrá un carácter pragmático operativo, estudiando explícitamente el valor exacto de la convergencia de series de funciones, complementando el tratamiento abstracto posterior en los cursos de Análisis Superior.
+> 💡 *Nota metodológica:* La última unidad sobre **Sucesiones y Series** mantendrá un carácter pragmático operativo, estudiando explícitamente el valor exacto de la convergencia de series de funciones, complementando el tratamiento abstracto posterior en los cursos de Análisis Matemático.
