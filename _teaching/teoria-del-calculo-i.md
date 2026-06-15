@@ -2,14 +2,21 @@
 layout: single
 title: "Teoría del Cálculo I"
 collection: teaching
+type: "Curso de Licenciatura"
 permalink: /teaching/teoria-del-calculo-i
 venue: "Universidad de Guadalajara, CUCEI"
-date: 2026
+date: 2026-01-01
 location: "Guadalajara, Jalisco, México"
 author_profile: true
 ---
 
-Este curso ofrece una aproximación rigurosa y formal a las bases estructurales del análisis matemático en una variable. Cuenta con una dedicación total de 112 horas distribuidas en 16 semanas de actividades académicas.
+El curso de Teoría del Cálculo I puede llevarse hasta después de haber acreditado todas las materias del módulo de “soporte matemático” porque se
+espera que los estudiantes inscritos tengan un dominio del lenguaje numérico, algebraico y geométrico y que, además, puedan incorporar herramientas
+computacionales en la resolución de problemas que se presentarán en el curso. El cálculo versa sobre la noción de variación de una función. Por tanto, al final del curso el estudiante podrá identificar las funciones fundamentales y utilizar las técnicas de derivación e integración con el objetivo de proponer y validar modelos matemáticos de situaciones teóricas y prácticas. El empleo de estas herramientas en el modelado matemático le permitirá al estudiante cursar con éxito la asignatura de “Taller de Teoría del Cálculo I”. 
+
+En este curso se trabajará con funciones que establecen la relación entre dos variables generalmente denominadas como dependiente e independiente.
+En un curso posterior (Teoría del Cálculo II) se analizarán funciones vectoriales y funciones que involucran una variable dependiente y dos o más
+variables independientes.
 
 ## 🕒 Distribución semanal de carga horaria
 * **Teoría:** 4 horas semanales.
