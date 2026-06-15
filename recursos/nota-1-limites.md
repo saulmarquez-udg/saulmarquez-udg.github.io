@@ -1,13 +1,11 @@
 ---
 layout: single
-title: "Nota 1: Interpretación geométrica del límite y su definición intuitiva"
+title: "Interpretación geométrica del límite y su definición intuitiva"
 sidebar:
   nav: "docs"
 permalink: /recursos/nota-1-limites/
 author_profile: true
 ---
-
-# Interpretación geométrica del límite y su definición intuitiva
 
 En el estudio del cálculo, el concepto de **límite** es la piedra angular sobre la que se construye todo lo demás (derivadas, integrales y series). Aunque las definiciones formales matemáticas suelen ser muy abstractas, su esencia radica en un proceso profundamente intuitivo y visual: **el análisis de una tendencia de aproximación**.
 
@@ -15,9 +13,9 @@ Como futuros científicos experimentales (QFB), la noción de límite no es ajen
 
 ---
 
-## 🧪 La analogía del laboratorio: Una reacción bajo control
+## La analogía del laboratorio: Una reacción bajo control
 
-Imagina que estás monitoreando la temperatura ($T$) en grados Celsius de una reacción química en tu matraz. El comportamiento de la temperatura depende estrictamente del tiempo ($t$) en minutos transcurrido desde que agregaste un catalizador. Matemáticamente, decimos que la temperatura es una función del tiempo: $T(t)$.
+Imagina que estás monitoreando la temperatura $$T$$ en grados Celsius de una reacción química en tu matraz. El comportamiento de la temperatura depende estrictamente del tiempo $$t$$ en minutos transcurrido desde que agregaste un catalizador. Matemáticamente, decimos que la temperatura es una función del tiempo: $$T(t)$$.
 
 Supongamos que los modelos químicos predicen que **exactamente en el minuto $t = 3$** ocurre una transición de fase instantánea y la lectura del sensor digital se interrumpe por un milisegundo. No puedes medir directamente la temperatura exacta en $T(3)$. ¿Significa que perdimos la información del experimento?
 
@@ -36,7 +34,7 @@ Cualquier científico experimental notaría el patrón de inmediato. Aunque tu t
 
 ---
 
-## 📐 Interpretación Geométrica y Notación
+## Interpretación geométrica y notación
 
 En matemáticas, lo que acabamos de hacer se escribe usando una notación elegante pero muy directa:
 
@@ -50,7 +48,7 @@ La clave fundamental del concepto de límite radica en una regla de oro: **No no
 
 ---
 
-## 🔍 Aplicaciones dinámicas en Ciencias Químicas
+## 🔍 Aplicaciones en ciencias químicas
 
 En tu formación profesional te encontrarás con variables dinámicas que requieren esta misma lógica de aproximación de manera constante:
 1. **Farmacocinética:** Evaluar cómo varía la concentración de un fármaco en el torrente sanguíneo a medida que pasa el tiempo. ¿Cuál es el límite de concentración residual tras 24 horas?
@@ -59,7 +57,7 @@ En tu formación profesional te encontrarás con variables dinámicas que requie
 
 ---
 
-## 📝 Reto de Bitácora (Actividad de Repaso)
+## Reto de bitácora (Actividad de repaso)
 
 Para consolidar esta intuición, analiza el siguiente comportamiento experimental en tu libreta:
 
