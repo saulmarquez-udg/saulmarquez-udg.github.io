@@ -2,18 +2,21 @@
 layout: single
 title: "16121 - Cálculo Diferencial e Integral"
 collection: teaching
+type: "Curso Semestral"
 permalink: /teaching/calculo-diferencial-integral
 venue: "Universidad de Guadalajara, CUCEI"
-date: 2026-08-10
+date: 2026-08-17
 location: "Guadalajara, Jalisco, México"
 author_profile: true
 ---
 
-Bienvenidos al espacio digital de la asignatura. El objetivo fundamental de este curso es relacionar cantidades de pequeña escala (diferenciales) con cantidades de gran escala (integradas) mediante el Teorema Fundamental del Cálculo.
+El curso de Cálculo Diferencial Integral necesita los conocimientos y habilidades asociados a la Unidad de Aprendizaje de Precálculo, ya que se espera que los alumnos inscritos tengan conocimiento de álgebra, funciones exponenciales y logarítmicas, así como funciones trigonométricas e identidades. En este curso se trabajará con las funciones fundamentales, se utilizarán técnicas de derivación e integración como herramienta en la solución e interpretación de problemas en el área de las ciencias exactas e ingenierías.
+
+El alumno empleará estas herramientas para cursar la unidad de aprendizaje posterior (Fisicoquímica I para farmacéuticos) y otras particulares de la carrera.
 
 ## 🕒 Horario y clases
 * **Lunes:** 15:00 a 17:00 (Teoría)
-* **Miércoles:** 15:00 a 17:00 (Teoríua)
+* **Miércoles:** 15:00 a 17:00 (Teoría)
 * **Viernes:** 15:00 a 16:00 (Sesión de repaso y resolución de problemas)
 
 ---
@@ -42,14 +45,14 @@ Bienvenidos al espacio digital de la asignatura. El objetivo fundamental de este
 * 📥 [Práctica Guiada: Reglas de Derivación](#) *(Enlace pendiente)*
 
 ### 📐 Hojas de problemas (Preparación para parciales)
-*Ejercicios de desarrollo manuscrito para entregar en Classroom los **sábados antes de las 12:00 del mediodía** en hojas blancas individuales.*
+*Ejercicios de desarrollo manuscrito para entregar en Classroom los sábados antes de las 12:00 del mediodía en hojas blancas individuales.*
 * 📥 [Problemario 1: Límites y Continuidad](#) *(Enlace pendiente)*
 * 📥 [Problemario 2: Aplicaciones de la Derivada y Optimización](#) *(Enlace pendiente)*
 * 📥 [Problemario 3: Métodos de Integración y Ec. Diferenciales](#) *(Enlace pendiente)*
 
 ---
 
-## 📖 Bitácora de Notas Web
+## 📖 Bitácora de notas Web
 
 A lo largo del semestre se habilitarán lecturas complementarias con demostraciones y desarrollos matemáticos directamente en la web:
 
