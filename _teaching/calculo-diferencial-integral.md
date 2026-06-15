@@ -38,13 +38,7 @@ El alumno empleará estas herramientas para cursar la unidad de aprendizaje post
 
 ## 📂 Material didáctico y descargables
 
-### 📝 Prácticas guiadas (Preparación para el examen departamental)
-*Ejercicios virtuales de opción múltiple encaminados a repasar conceptos básicos.*
-* 📥 [Práctica Guiada: Funciones e Inecuaciones](#) *(Enlace pendiente)*
-* 📥 [Práctica Guiada: Límites e Indeterminaciones](#) *(Enlace pendiente)*
-* 📥 [Práctica Guiada: Reglas de Derivación](#) *(Enlace pendiente)*
-
-### 📐 Hojas de problemas (Preparación para parciales)
+### 📐 Hojas de problemas (Preparación para examenes parciales)
 *Ejercicios de desarrollo manuscrito para entregar en Classroom los sábados antes de las 12:00 del mediodía en hojas blancas individuales.*
 * 📥 [Problemario 1: Límites y Continuidad](#) *(Enlace pendiente)*
 * 📥 [Problemario 2: Aplicaciones de la Derivada y Optimización](#) *(Enlace pendiente)*
