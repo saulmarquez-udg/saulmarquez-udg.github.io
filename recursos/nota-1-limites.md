@@ -5,6 +5,7 @@ sidebar:
   nav: "docs"
 permalink: /recursos/nota-1-limites/
 author_profile: true
+mathjax: true
 ---
 
 En el estudio del cálculo, el concepto de **límite** es la piedra angular sobre la que se construye todo lo demás (derivadas, integrales y series). Aunque las definiciones formales matemáticas suelen ser muy abstractas, su esencia radica en un proceso profundamente intuitivo y visual: **el análisis de una tendencia de aproximación**.
@@ -15,7 +16,7 @@ Como futuros científicos experimentales (QFB), la noción de límite no es ajen
 
 ## La analogía del laboratorio: Una reacción bajo control
 
-Imagina que estás monitoreando la temperatura $$T$$ en grados Celsius de una reacción química en tu matraz. El comportamiento de la temperatura depende estrictamente del tiempo $$t$$ en minutos transcurrido desde que agregaste un catalizador. Matemáticamente, decimos que la temperatura es una función del tiempo: $$T(t)$$.
+Imagina que estás monitoreando la temperatura $T$ en grados Celsius de una reacción química en tu matraz. El comportamiento de la temperatura depende estrictamente del tiempo $t$ en minutos transcurrido desde que agregaste un catalizador. Matemáticamente, decimos que la temperatura es una función del tiempo: $$T(t)$$.
 
 Supongamos que los modelos químicos predicen que **exactamente en el minuto $$t = 3$$** ocurre una transición de fase instantánea y la lectura del sensor digital se interrumpe por un milisegundo. No puedes medir directamente la temperatura exacta en $$T(3)$$. ¿Significa que perdimos la información del experimento?
 
