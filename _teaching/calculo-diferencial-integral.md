@@ -3,6 +3,9 @@ layout: single
 title: "16121 - Cálculo Diferencial e Integral"
 collection: teaching
 permalink: /teaching/calculo-diferencial-integral
+venue: "Universidad de Guadalajara, CUCEI"
+date: 2026-08-10
+location: "Guadalajara, Jalisco, México"
 author_profile: true
 ---
 
