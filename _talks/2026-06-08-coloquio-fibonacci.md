@@ -17,4 +17,4 @@ Ponencia presentada recientemente en el Coloquio Fibonacci de Matemáticas del C
 ---
 
 ## 📂 Material Asociado
-* 📊 [Descargar Diapositivas del Coloquio (PDF)](#) *(Enlace pendiente)*
+* 📊 [Descargar Diapositivas del Coloquio (PDF)](/assets/pdfs/assets/pdfs/coloquio-fibonacci-2026.pdf)
