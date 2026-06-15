@@ -16,7 +16,7 @@ Como futuros científicos experimentales (QFB), la noción de límite no es ajen
 
 ## La analogía del laboratorio: Una reacción bajo control
 
-Imagina que estás monitoreando la temperatura $T$ en grados Celsius de una reacción química en tu matraz. El comportamiento de la temperatura depende estrictamente del tiempo $t$ en minutos transcurrido desde que agregaste un catalizador. Matemáticamente, decimos que la temperatura es una función del tiempo: $$T(t)$$.
+Imagina que estás monitoreando la temperatura $$T$$ en grados Celsius de una reacción química en tu matraz. El comportamiento de la temperatura depende estrictamente del tiempo $$t$$ en minutos transcurrido desde que agregaste un catalizador. Matemáticamente, decimos que la temperatura es una función del tiempo: $$T(t)$$.
 
 Supongamos que los modelos químicos predicen que **exactamente en el minuto $$t = 3$$** ocurre una transición de fase instantánea y la lectura del sensor digital se interrumpe por un milisegundo. No puedes medir directamente la temperatura exacta en $$T(3)$$. ¿Significa que perdimos la información del experimento?
 
@@ -27,11 +27,11 @@ Por supuesto que no. Lo que haces por instinto analítico es revisar las bitáco
 * Si mides a los $$t = 2.999$$ min, marca $$59.99^\circ\text{C}$$.
 
 Hagamos lo mismo viniendo desde el enfriamiento (después del minuto 3):
-* Si mides a los $t = 3.1$ min, la temperatura marca $61.9^\circ\text{C}$.
-* Si mides a los $t = 3.01$ min, marca $60.2^\circ\text{C}$.
-* Si mides a los $t = 3.001$ min, marca $60.01^\circ\text{C}$.
+* Si mides a los $$t = 3.1$$ min, la temperatura marca $$61.9^\circ\text{C}$$.
+* Si mides a los $$t = 3.01$$ min, marca $$60.2^\circ\text{C}$$.
+* Si mides a los $$t = 3.001$$ min, marca $$60.01^\circ\text{C}$$.
 
-Cualquier científico experimental notaría el patrón de inmediato. Aunque tu termómetro haya fallado en el instante exacto $t = 3$, tienes la certeza analítica de que la temperatura **se estaba aproximando a los $60^\circ\text{C}$**. Ese valor objetivo es el límite.
+Cualquier científico experimental notaría el patrón de inmediato. Aunque tu termómetro haya fallado en el instante exacto $$t = 3$$, tienes la certeza analítica de que la temperatura **se estaba aproximando a los $60^\circ\text{C}$**. Ese valor objetivo es el límite.
 
 ---
 
