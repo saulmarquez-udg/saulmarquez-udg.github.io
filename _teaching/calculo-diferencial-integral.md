@@ -56,7 +56,7 @@ El alumno empleará estas herramientas para cursar la unidad de aprendizaje post
 
 A lo largo del semestre se habilitarán lecturas complementarias con demostraciones y desarrollos matemáticos directamente en la web:
 
-* 🌐 [Nota 1: Interpretación geométrica del límite y su definición intuitiva](#)
+* 🌐 [Nota 1: Interpretación geométrica del límite y su definición intuitiva](/recursos/nota-1-limites/)
 * 🌐 [Nota 2: El Criterio de la Segunda Derivada y Concavidad](#)
 * 🌐 [Nota 3: Teorema Fundamental del Cálculo e Integración por Partes](#)
 
