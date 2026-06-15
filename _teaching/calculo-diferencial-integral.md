@@ -9,26 +9,25 @@ location: "Guadalajara, Jalisco, México"
 author_profile: true
 ---
 
-% # Cálculo Diferencial e Integral (Clave: 16121)
-
 Bienvenidos al espacio digital de la asignatura. El objetivo fundamental de este curso es relacionar cantidades de pequeña escala (diferenciales) con cantidades de gran escala (integradas) mediante el Teorema Fundamental del Cálculo.
 
-## 🕒 Horario y Clases
-* **Lunes:** 15:00 a 17:00 (Clase)
-* **Miércoles:** 15:00 a 17:00 (Clase)
-* **Viernes:** 15:00 a 16:00 (Sesión de Repaso)
+## 🕒 Horario y clases
+* **Lunes:** 15:00 a 17:00 (Teoría)
+* **Miércoles:** 15:00 a 17:00 (Teoríua)
+* **Viernes:** 15:00 a 16:00 (Sesión de repaso y resolución de problemas)
 
 ---
 
-## 📊 Esquema de Evaluación
+## 📊 Esquema de evaluación
 
 | Actividad | Descripción | Ponderación |
 | :--- | :--- | :---: |
-| **Primer Examen Parcial** | Temas correspondientes a las Unidades 1 y 2. | 15% |
-| **Segundo Examen Parcial** | Temas correspondientes a la Unidad 3. | 20% |
-| **Examen Final** | Evaluación teórico-práctica global de todos los temas. | 35% |
-| **Tareas** | Prácticas guiadas (5%) + Problemarios (15%). | 20% |
-| **Examen Departamental** | Examen de opción múltiple al final del semestre. | 10% |
+| **Primer examen parcial** | Temas correspondientes a las Unidades 1 y 2. | 15% |
+| **Segundo examen parcial** | Temas correspondientes a la Unidad 3. | 20% |
+| **Examen departamental** | Examen de opción múltiple al final del semestre. | 10% |
+| **Examen final** | Evaluación teórico-práctica global de todos los temas. | 35% |
+| **Tareas** | Prácticas guiadas (5%) + problemarios (15%). | 20% |
+
 
 > ⚠️ **Nota sobre asistencia:** De acuerdo al reglamento del CUCEI, se requiere un mínimo del 80% de asistencia para tener derecho a la evaluación ordinaria, y un 65% para el periodo extraordinario. La calificación mínima aprobatoria es 60.
 
@@ -50,7 +49,7 @@ Bienvenidos al espacio digital de la asignatura. El objetivo fundamental de este
 
 ---
 
-## 📖 Bitácora de Notas Web (Soporte LaTeX)
+## 📖 Bitácora de Notas Web
 
 A lo largo del semestre se habilitarán lecturas complementarias con demostraciones y desarrollos matemáticos directamente en la web:
 
